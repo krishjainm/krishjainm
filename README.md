@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Krish — an undergrad researcher in AI and machine learning, studying Data Science & Statistics at UCSB.  
+My name is Krish Jain. I am an undergrad researcher in AI and machine learning, studying Data Science and Statistics at UCSB.  
 I’m deeply passionate about using AI to make a meaningful difference in healthcare and beyond.
 
 ### 🔬 Current Research
@@ -11,11 +11,11 @@ I’m deeply passionate about using AI to make a meaningful difference in health
 
 ### 🎯 Goals
 - Dedicated to building AI systems that improve lives, especially in clinical and diagnostic settings  
-- Applying for Ph.D. programs in Winter 2026, focused on AI for healthcare  
+- Applying for CS Ph.D. programs in Winter 2026, focused on AI for healthcare  
 - Hoping to complete my Ph.D. by age 25
 
 ### 🌱 About Me
-- Graduated high school at 16, completed an associate’s in CS by 17, and will finish my bachelor’s by 19  
+- Graduated high school at 16, completed an associate’s in CS and Math by 17, and will finish my bachelor’s by 19  
 - Youngest ever **UC LEADS Scholar** (~3% acceptance) in the University of California System 
 - Honored to be a **Stanford C-REST Fellow** (~4% acceptance)
 
