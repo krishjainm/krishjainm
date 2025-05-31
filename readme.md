@@ -25,6 +25,6 @@ I’m deeply passionate about using AI to make a meaningful difference in health
 
 ### 📫 Get in touch
 - Email: `krishjain [at] ucsb [dot] edu`  
-- LinkedIn: [linkedin.com/in/krishmjain](https://www.linkedin.com/in/krishmjain)
+- LinkedIn: [linkedin.com/in/krishjainm](https://www.linkedin.com/in/krishjainm)
 
 Thanks for stopping by 🙏
