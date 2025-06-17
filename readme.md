@@ -18,6 +18,7 @@ I’m deeply passionate about using AI to make a meaningful difference in health
 - Graduated high school at 16, completed an associate’s in CS and Math by 17, and will finish my bachelor’s by 19  
 - Youngest ever **UC LEADS Scholar** (~3% acceptance) in the University of California System 
 - Honored to be a **Stanford CREST** (~7.3% acceptance)
+- I am a prospective Ph.D student in Computer Science in applied AI for Healthcare
 
 ### 🤝 I’m looking to...
 - Collaborate with others passionate about applying AI to solve real-world health challenges  
