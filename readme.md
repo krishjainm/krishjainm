@@ -4,10 +4,11 @@ My name is Krish Jain. I am an undergrad researcher in AI and machine learning, 
 I’m deeply passionate about using AI to make a meaningful difference in healthcare and beyond.
 
 ### 🔬 Current Research
-- 🧠 **Stanford Med** (Canary CREST, ~7.3% acceptance): Deep learning for noise suppression in ultrasound imaging  
+- 🧬 **Stanford Medicine** (Canary CREST, ~7.3% acceptance): Deep learning for noise suppression in ultrasound imaging  
 - ♠️ **Algoverse AI** (~3% acceptance): Studying how LLMs can coordinate in multi-agent poker environments  
-- 🧠 **UCSB Dynamo Lab**: Researching adversarial robustness in graph neural networks  
-- 🧠 **ThinkNeuro Labs** (~6% acceptance): Selected 17/275 to build a GPT-powered assistant for student abstract and poster generation using scaffolded AI prompts and citation tools
+- 📊 **UCSB Dynamo Lab**: Researching adversarial robustness in graph neural networks  
+- 📚 **ThinkNeuro Labs** (~6% acceptance): Built a GPT-powered tool for student abstract and poster generation
+- 🚀 **Algoverse AI – Summer Internship**: [details coming soon]  
 
 ### 🎯 Goals
 - Dedicated to building AI systems that improve lives, especially in clinical and diagnostic settings  
