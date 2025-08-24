@@ -19,8 +19,8 @@ My name is Krish Jain. I am an undergrad researcher in AI and machine learning, 
 - I am a prospective Ph.D student in Computer Science
 
 ### 🤝 I’m looking to...
-- Collaborate with others passionate about applying AI to solve real-world health challenges  
-- Learn from researchers, mentors, and peers doing meaningful, ethical work in AI and medicine
+- Collaborate with others passionate about applying AI to solve real-world challenges  
+- Learn from researchers, mentors, and peers doing meaningful work in AI
 
 ### 📫 Get in touch
 - Email: `krishjain [at] ucsb [dot] edu`  
