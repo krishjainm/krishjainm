@@ -8,7 +8,6 @@ My name is Krish Jain. I am an undergrad researcher in AI and machine learning, 
   - *Optimizing Multi-Agent Collaboration Capabilities in Imperfect Information Games* (Jan 2025 – Present)  
 - 📊 **UCSB Dynamo Lab**:  
   - *Targeted Edge Perturbations on Graph Neural Networks: Exploring Greedy, Heuristic, and Gradient-Driven Approaches* (Jun 2024 – Mar 2025)  
-- 🚀 **Algoverse AI – Summer Internship**: [details coming soon]  
 
 ### 🏛️ Previous Research
 - 🧬 **Stanford Medicine – Canary CREST** (~7.3% acceptance):  
