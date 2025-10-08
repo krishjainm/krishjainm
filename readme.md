@@ -3,24 +3,25 @@
 My name is Krish Jain. I am an undergrad researcher in AI and machine learning, studying Data Science and Statistics at UCSB.  
 
 ### 🔬 Current Research
-- 🧬 **Stanford Medicine** (Canary CREST, ~7.3% acceptance): Deep learning for noise suppression in ultrasound imaging  
-- ♠️ **Algoverse AI** (~3% acceptance): Studying how LLMs can coordinate in multi-agent poker environments  
-- 📊 **UCSB Dynamo Lab**: Researching adversarial robustness in graph neural networks  
-- 📚 **ThinkNeuro Labs** (~6% acceptance): Building a GPT-powered tool for student abstract and poster generation
+- ♠️ **Algoverse AI** (~3% acceptance):  
+  - *Discovering and Manipulating Deception Circuits in LLM Reasoning Traces* (Jul 2025 – Present)  
+  - *Optimizing Multi-Agent Collaboration Capabilities in Imperfect Information Games* (Jan 2025 – Present)  
+- 📊 **UCSB Dynamo Lab**:  
+  - *Targeted Edge Perturbations on Graph Neural Networks: Exploring Greedy, Heuristic, and Gradient-Driven Approaches* (Jun 2024 – Mar 2025)  
 - 🚀 **Algoverse AI – Summer Internship**: [details coming soon]  
+
+### 🏛️ Previous Research
+- 🧬 **Stanford Medicine – Canary CREST** (~7.3% acceptance):  
+  *Reverberation Noise Suppression in Ultrasound Channel Signals Using a 3D Fully Convolutional Neural Network* (Jun 2025 – Aug 2025)  
+- 📚 **ThinkNeuro Labs** (~6% acceptance):  
+  *GPT-Powered Abstract & Research Poster Assistant* (Jun 2025 – Aug 2025)  
 
 ### 🎯 Goals
 - Hoping to complete my Ph.D. by age 25
 
 ### 🌱 About Me
 - Graduated high school at 16, completed an associate’s in CS & Mathematics by 17, and will finish my bachelor’s by 19  
-- Youngest ever **UC LEADS Scholar** (~3% acceptance) in the University of California System 
-- Honored to be a **Stanford CREST** (~7.3% acceptance)
-- I am a prospective Ph.D student in Computer Science/EECS
-
-### 🤝 I’m looking to...
-- Collaborate with others passionate about applying AI to solve real-world challenges  
-- Learn from researchers, mentors, and peers doing meaningful work in AI
+- Youngest ever **UC LEADS Scholar** (~3% acceptance) in the University of California System   
 
 ### 📫 Get in touch
 - Email: `krishjain [at] ucsb [dot] edu`  
