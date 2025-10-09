@@ -3,7 +3,7 @@
 My name is Krish Jain. I am an undergrad researcher in AI and machine learning, studying Data Science and Statistics at UCSB.  
 
 ### 🔬 Current Research
-- ♠️ **Algoverse AI** (~3% acceptance):  
+- ♠️ **Algoverse AI**:  
   - *Discovering and Manipulating Deception Circuits in LLM Reasoning Traces* (Jul 2025 – Present)  
   - *Optimizing Multi-Agent Collaboration Capabilities in Imperfect Information Games* (Jan 2025 – Present)  
 - 📊 **UCSB Dynamo Lab**:  
