@@ -20,7 +20,7 @@ My name is Krish Jain. I am an undergrad researcher in AI and machine learning, 
 
 ### 🌱 About Me
 - Graduated high school at 16, completed an associate’s in CS & Mathematics by 17, and will finish my bachelor’s by 19  
-- Youngest ever **UC LEADS Scholar** (~3% acceptance) in the University of California System   
+- Youngest ever **UC LEADS Scholar** in the University of California System   
 
 ### 📫 Get in touch
 - Email: `krishjain [at] ucsb [dot] edu`  
