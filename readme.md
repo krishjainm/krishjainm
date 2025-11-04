@@ -12,7 +12,7 @@ My name is Krish Jain. I am an undergrad researcher in AI and machine learning, 
   *Reverberation Noise Suppression in Ultrasound Channel Signals Using a 3D Fully Convolutional Neural Network* (Jun 2025 – Aug 2025)  
 - 📚 **ThinkNeuro Labs** (~6% acceptance):  
   *GPT-Powered Abstract & Research Poster Assistant* (Jun 2025 – Aug 2025)
-  - 📊 **UCSB Dynamo Lab**:  
+- 📊 **UCSB Dynamo Lab**:  
   - *Targeted Edge Perturbations on Graph Neural Networks: Exploring Greedy, Heuristic, and Gradient-Driven Approaches* (Jun 2024 – Mar 2025)  
 
 ### 🎯 Goals
