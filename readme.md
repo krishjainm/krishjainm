@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-My name is Krish Jain. I am an undergrad researcher in AI and machine learning, studying Data Science and Statistics at UCSB.  
+My name is Krish Jain. I am an undergraduate researcher in AI and machine learning, studying Data Science and Statistics at UCSB.  
 
 ### 🔬 Current Research
 - ♠️ **Algoverse AI**:  
@@ -16,7 +16,7 @@ My name is Krish Jain. I am an undergrad researcher in AI and machine learning, 
   *Targeted Edge Perturbations on Graph Neural Networks: Exploring Greedy, Heuristic, and Gradient-Driven Approaches* (Jun 2024 – Mar 2025)  
 
 ### 🎯 Goals
-- Hoping to complete my Ph.D. by age 25
+- To pursue a Ph.D in Electrical Engineering & Computer Science
 
 ### 🌱 About Me
 - Graduated high school at 16, completed an associate’s in CS & Mathematics by 17, and will finish my bachelor’s by 19  
