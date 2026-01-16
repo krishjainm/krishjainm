@@ -3,6 +3,8 @@
 My name is Krish Jain. I am an undergraduate researcher in AI and machine learning, studying Data Science and Statistics at UCSB.  
 
 ### 🔬 Current Research
+- 📊 **UCSB Dynamo Lab**:
+  - *Investigating Temporal Neural Representations for Speech Decoding from Intracortical Signals* (Nov 2025 - Present)
 - ♠️ **Algoverse AI**:  
   - *Discovering and Manipulating Deception Circuits in LLM Reasoning Traces* (Jul 2025 – Present)  
   - *Optimizing Multi-Agent Collaboration Capabilities in Imperfect Information Games* (Jan 2025 – Present)  
