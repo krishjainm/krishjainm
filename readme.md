@@ -7,7 +7,9 @@ My name is Krish Jain. I am an undergraduate researcher in AI and machine learni
   - *Investigating Temporal Neural Representations for Speech Decoding from Intracortical Signals* (Nov 2025 - Present)
 - ♠️ **Algoverse AI**:  
   - *Discovering and Manipulating Deception Circuits in LLM Reasoning Traces* (Jul 2025 – Present)  
-  - *Optimizing Multi-Agent Collaboration Capabilities in Imperfect Information Games* (Jan 2025 – Present)  
+  - *Optimizing Multi-Agent Collaboration Capabilities in Imperfect Information Games* (Jan 2025 – Present)
+- 🧪 **OvaVision**:
+  - *Quality Control and Data Validation for Computer Vision Models in Biomedical Imaging* (Nov 2025 - Present)
 
 ### 🏛️ Previous Research
 - 🧬 **Stanford Medicine – Canary CREST** (~7.3% acceptance):  
