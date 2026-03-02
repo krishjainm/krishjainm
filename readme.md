@@ -8,9 +8,9 @@ My name is Krish Jain. I am an undergraduate researcher in AI and machine learni
 - 🧪 **OvaVision**  
   - *Quality Control and Data Validation for Computer Vision Models in Biomedical Imaging* (Nov 2025 - Present)  
 
-### 📄 Publications & Manuscripts  
+### 📄 Publications 
 - *Miscalibrated Belief Updates in LLM Agents under Strategic Uncertainty* (Jan 2025 – Feb 2026)  
-  - Manuscript in preparation  
+  - OpenReview Page Coming Soon
 
 ### 🏛️ Previous Research  
 - 🧬 **Stanford Medicine – Canary CREST** (~7.3% acceptance)  
