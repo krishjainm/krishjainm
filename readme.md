@@ -2,50 +2,33 @@
 
 My name is Krish Jain. I am an undergraduate researcher in AI and machine learning, studying Data Science and Statistics at UCSB.  
 
----
-
 ### 🔬 Current Research  
-- 📊 **UCSB Dynamo Lab**  
-  - *Investigating Temporal Neural Representations for Speech Decoding from Intracortical Signals* (Nov 2025 - Present)  
-
 - ♠️ **Algoverse AI**  
   - *Discovering and Manipulating Deception Circuits in LLM Reasoning Traces* (Jul 2025 – Present)  
-
 - 🧪 **OvaVision**  
   - *Quality Control and Data Validation for Computer Vision Models in Biomedical Imaging* (Nov 2025 - Present)  
 
----
-
 ### 📄 Publications & Manuscripts  
-- *Miscalibrated Belief Updates in LLM Agents under Strategic Uncertainty* (2025 – Present)  
+- *Miscalibrated Belief Updates in LLM Agents under Strategic Uncertainty* (Jan 2025 – Feb 2026)  
   - Manuscript in preparation  
-
----
 
 ### 🏛️ Previous Research  
 - 🧬 **Stanford Medicine – Canary CREST** (~7.3% acceptance)  
   - *Reverberation Noise Suppression in Ultrasound Channel Signals Using a 3D Fully Convolutional Neural Network* (Jun 2025 – Aug 2025)  
-
 - 📚 **ThinkNeuro Labs** (~6% acceptance)  
   - *GPT-Powered Abstract & Research Poster Assistant* (Jun 2025 – Aug 2025)  
-
 - 📊 **UCSB Dynamo Lab**  
-  - *Targeted Edge Perturbations on Graph Neural Networks: Exploring Greedy, Heuristic, and Gradient-Driven Approaches* (Jun 2024 – Mar 2025)  
-
----
+  - *Targeted Edge Perturbations on Graph Neural Networks: Exploring Greedy, Heuristic, and Gradient-Driven Approaches* (Jun 2024 – Mar 2025)
+  - *Investigating Temporal Neural Representations for Speech Decoding from Intracortical Signals* (Nov 2025 - Feb 2026)  
 
 ### 🎯 Goals  
 To pursue a Ph.D in Electrical Engineering & Computer Science with a focus on trustworthy and interpretable AI.  
-
----
 
 ### 🌱 About Me  
 - Graduated high school at 16  
 - Completed an associate’s degree in Computer Science & Mathematics by 17  
 - On track to complete my bachelor’s by 19  
 - Youngest ever **UC LEADS Scholar** in the University of California system  
-
----
 
 ### 📫 Get in touch  
 - Email: `krishjain [at] ucsb [dot] edu`  
