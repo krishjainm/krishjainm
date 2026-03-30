@@ -26,8 +26,8 @@ To pursue a Ph.D in Electrical Engineering & Computer Science with a focus on tr
 
 ### 🌱 About Me  
 - Graduated high school at 16  
-- Completed an associate’s degree in Computer Science & Mathematics by 17  
-- On track to complete my bachelor’s by 19  
+- Graduated with an Associate’s in Computer Science & Mathematics by 17  
+- Graduated with a Bachelors's in Statistics & Data Science by 19 
 - Youngest ever **UC LEADS Scholar** in the University of California system  
 
 ### 📫 Get in touch  
