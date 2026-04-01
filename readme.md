@@ -10,7 +10,7 @@ My name is Krish Jain. I am an undergraduate researcher in AI and machine learni
 
 ### 📄 Publications 
 - *Miscalibrated Belief Updates in LLM Agents under Strategic Uncertainty* (Jan 2025 – Feb 2026)  
-  - (https://openreview.net/pdf?id=7cRVi47XT0)
+  - https://openreview.net/pdf?id=7cRVi47XT0
 
 ### 🏛️ Previous Research  
 - 🧬 **Stanford Medicine – Canary CREST** (~7.3% acceptance)  
